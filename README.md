@@ -3,6 +3,13 @@
 깃허브 사용에 있어 도움이될만한 링크들   
 영어는 (영어) 표기가 있음.
 
+<목차>
+- [깃허브 마크다운](https://github.com/Hamthoven/github_tips#%EA%B9%83%ED%97%88%EB%B8%8C-%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4)
+- [오픈소스 기여](https://github.com/Hamthoven/github_tips#%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EA%B8%B0%EC%97%AC)
+- [프로필](https://github.com/Hamthoven/github_tips#%ED%94%84%EB%A1%9C%ED%95%84)
+- [블로그]()
+- [기타]()
+
 </br>
 
 ## 깃허브 마크다운
@@ -21,7 +28,6 @@
   오픈소스 기여 시 많이 쓰이는 표현과 문법을 정리한 레포지토리
 -
 
-
 </br>
 
 ## 프로필
@@ -35,6 +41,11 @@
   **(영어)** readme에 스테이터스 (개발 및 기여 정보) 카드를 추가하는 레포지토리
 - [📌✨productive-box](https://github.com/techinpark/productive-box)   
   **(영어)** 커밋 시간을 나타내주는 레포지토리. Fork하면 본인의 레포지토리 카드에서 확인 가능
+
+
+## 블로그
+- [깃허브 블로그 만들기](https://velog.io/@shg4821/%EA%B9%83%ED%97%88%EB%B8%8C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-1)   
+  지킬(Jekyll)을 사용한 깃허브 블로그 제작 가이드 (처음 설치부터 검색도구 적용까지 다룸)
 - 
 
 </br>
@@ -42,5 +53,10 @@
 ## 기타
 
 - [GitHub Student Developer Pack](https://education.github.com/pack)   
-  깃허브 Pro 학생 무료 업그레이드
+  **(영어)** 깃허브 Pro 학생 무료 업그레이드
+- [깃허브(GitHub)로 취업하기](https://sujinlee.me/professional-github/)   
+  프로필 설정과 기타 조언들
 - 
+
+
+</br>

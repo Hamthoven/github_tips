@@ -26,7 +26,8 @@
   오픈소스 기여에 대한 전반적인 설명과 시작법 안내
 - [awesome engfordev](https://github.com/EngForDev/awesome-engfordev)   
   오픈소스 기여 시 많이 쓰이는 표현과 문법을 정리한 레포지토리
--
+- [오픈소스 입문을 위한 아주 구체적인 가이드](https://velog.io/@ppp3195/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%9E%85%EB%AC%B8%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%95%84%EC%A3%BC-%EA%B5%AC%EC%B2%B4%EC%A0%81%EC%9D%B8-%EA%B0%80%EC%9D%B4%EB%93%9C)   
+  기초적인 용어 설명부터 시작하는 가이드
 
 </br>
 
@@ -41,7 +42,7 @@
   **(영어)** readme에 스테이터스 (개발 및 기여 정보) 카드를 추가하는 레포지토리
 - [📌✨productive-box](https://github.com/techinpark/productive-box)   
   **(영어)** 커밋 시간을 나타내주는 Gist 가이드 레포지토리. Fork하면 본인이 Pin하여 확인 가능
-- [Awesome Pinned Gists](https://github.com/matchai/awesome-pinned-gists)
+- [Awesome Pinned Gists](https://github.com/matchai/awesome-pinned-gists)   
   **(영어)** 다양한 Pin용 Gist 가이드 레포지토리.
 
 
@@ -56,7 +57,7 @@
 
 - [GitHub Student Developer Pack](https://education.github.com/pack)   
   **(영어)** 깃허브 Pro 학생 무료 업그레이드
-- [깃허브(GitHub)로 취업하기](https://sujinlee.me/professional-github/)   
+- [깃허브(GitHub)로 취업하기](https://sujinlee.me/professional-github/)    
   프로필 설정과 기타 조언들
 - 
 

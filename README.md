@@ -40,7 +40,9 @@
 - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)   
   **(영어)** readme에 스테이터스 (개발 및 기여 정보) 카드를 추가하는 레포지토리
 - [📌✨productive-box](https://github.com/techinpark/productive-box)   
-  **(영어)** 커밋 시간을 나타내주는 레포지토리. Fork하면 본인의 레포지토리 카드에서 확인 가능
+  **(영어)** 커밋 시간을 나타내주는 Gist 가이드 레포지토리. Fork하면 본인이 Pin하여 확인 가능
+- [Awesome Pinned Gists](https://github.com/matchai/awesome-pinned-gists)
+  **(영어)** 다양한 Pin용 Gist 가이드 레포지토리.
 
 
 ## 블로그

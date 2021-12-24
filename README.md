@@ -1,7 +1,8 @@
 # 깃허브 팁 모음
 
 깃허브 사용에 있어 도움이될만한 링크들   
-영어는 (영어) 표기가 있음.
+영어는 (영어) 표기가 있음.   
+[기여 가이드](https://github.com/Hamthoven/github_tips/blob/main/%EA%B8%B0%EC%97%AC_%EA%B0%80%EC%9D%B4%EB%93%9C.md)는 이쪽!   
 
 <목차>
 - [깃허브 마크다운](https://github.com/Hamthoven/github_tips#%EA%B9%83%ED%97%88%EB%B8%8C-%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4)

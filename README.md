@@ -60,6 +60,8 @@
   **(영어)** 깃허브 Pro 학생 무료 업그레이드
 - [깃허브(GitHub)로 취업하기](https://sujinlee.me/professional-github/)    
   프로필 설정과 기타 조언들
+- [Git .gitignore 적용하기](https://nesoy.github.io/articles/2017-01/Git-Ignore)   
+  깃허브에 올라오는 파일 중 일부 제외하고 올리는 방법인 gitignore 사용 방법 (파일 내 문법 포함)
 - 
 
 

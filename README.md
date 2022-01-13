@@ -7,6 +7,7 @@
 <목차>
 - [깃허브 마크다운](https://github.com/Hamthoven/github_tips#%EA%B9%83%ED%97%88%EB%B8%8C-%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4)
 - [오픈소스 기여](https://github.com/Hamthoven/github_tips#%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EA%B8%B0%EC%97%AC)
+- [팀프로젝트]()
 - [프로필](https://github.com/Hamthoven/github_tips#%ED%94%84%EB%A1%9C%ED%95%84)
 - [블로그](https://github.com/Hamthoven/github_tips#%EB%B8%94%EB%A1%9C%EA%B7%B8)
 - [기타](https://github.com/Hamthoven/github_tips#%EA%B8%B0%ED%83%80)
@@ -17,7 +18,6 @@
 
 - [Markdown Syntax 마크다운 작성법](https://github.com/jinkyukim-me/markdown_ko)   
   깃허브에서 사용할 수 있는 마크다운의 사용법과 예시 모음
-- 
 
 </br>
 
@@ -31,6 +31,16 @@
   기초적인 용어 설명부터 시작하는 가이드
 
 </br>
+
+## 팀 프로젝트 (Organization)
+
+- [깃허브(GitHub)에서 Organization를 생성하여 다수의 사용자에게 Private 저장소 Read-Only 권한 부여하기](https://ndb796.tistory.com/488)
+  생성부터 Read-Only 권한 부여까지 다루는 Organization 설명
+- [[GitHub] Organization Team 관리](https://velog.io/@gillog/GitHub-Organization-Team-%EA%B4%80%EB%A6%AC)
+  Organization 중 Team에 대한 설명. 정의부터 예시, 설정까지 다룸.
+
+
+<br />
 
 ## 프로필
 - [GitHub Now](https://github.com/beyondcode/github-now)   
@@ -50,7 +60,7 @@
 ## 블로그
 - [깃허브 블로그 만들기](https://velog.io/@shg4821/%EA%B9%83%ED%97%88%EB%B8%8C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-1)   
   지킬(Jekyll)을 사용한 깃허브 블로그 제작 가이드 (처음 설치부터 검색도구 적용까지 다룸)
-- 
+
 
 </br>
 
@@ -62,7 +72,6 @@
   프로필 설정과 기타 조언들
 - [Git .gitignore 적용하기](https://nesoy.github.io/articles/2017-01/Git-Ignore)   
   깃허브에 올라오는 파일 중 일부 제외하고 올리는 방법인 gitignore 사용 방법 (파일 내 문법 포함)
-- 
 
 
 </br>
